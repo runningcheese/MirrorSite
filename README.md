@@ -24,7 +24,7 @@
 | [Google 字体](https://www.googlefonts.cn/)           | https://cdn.baomitu.com/index/fonts，360 前端静态资源库。    |
 |                                                      |                                                              |
 | [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) | https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia |
-| [Stackoverflow](https://stackoverflow.com)           | 在原来的链接前加上：https://stackoverflow.nilmap.com/question?dest_url=，[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows) |
+| [Stackoverflow](https://stackoverflow.com)           | 在原来的链接前加上：https://stackoverflow.nilmap.com/question?dest_url=。[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows) |
 |                                                      |                                                              |
 | [SCI-Hub](https://sci-hub.ru/)                       | https://sci-hub.se/                                          |
 | ↳                                                    | https://sci-hub.st/                                          |
@@ -36,7 +36,7 @@
 | ▼ **GitHub**                                         | **镜像网站**                                                 |
 | [GitHub](https://github.com/)                        | 在任意 github 链接**后面**加上 fast，也就是 githubfast.com，[[示例](https://githubfast.com/runningcheese/Awesome-ChatGPT)] |
 | ↳                                                    | 在任意 github 链接**前面**加上 k，也就是 kgithub.com，[[示例](https://kgithub.com/runningcheese/Awesome-ChatGPT)] |
-| GitHub 下载                                          | 在 github 下载链接前面加上 https://ghproxy.com/，，[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg) |
+| GitHub 下载                                          | 在 github 下载链接前面加上 https://ghproxy.com/。[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg) |
 | GitHub 文件夹                                        | [项目地址](https://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html)，解决 GitHub 只能下载整个项目的问题。 |
 | GitHub CDN                                           | https://gcore.jsdelivr.net（180ms 延迟，有缓存）             |
 | ↳                                                    | https://fastly.jsdelivr.net（180ms 延迟，有缓存）            |

@@ -20,6 +20,7 @@
 | ↳                | http://scholar.scqylaw.com                                   |
 | Google 翻译      | https://fsoufsou.com/translate                               |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
+| Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
 | Wikipedia        | https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia |
 | Stackoverflow    | 在原来的链接前加上：[https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |

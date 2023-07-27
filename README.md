@@ -1,5 +1,7 @@
 # MirrorSite
 
+最后更新：2023-07-27
+
 
 
 | ▼ **网站访问**   | **镜像网站**                                                 |
@@ -22,8 +24,8 @@
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
 | Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
-| Wikipedia        | https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia |
-| Stackoverflow    | 在原来的链接前加上：[https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |
+| Wikipedia        | [https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia](https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia) |
+| ↳                | [https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia](https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia) |
 |                  |                                                              |
 | SCI-Hub          | https://sci-hub.se/                                          |
 | ↳                | https://sci-hub.st/                                          |
@@ -42,6 +44,7 @@
 | ↳                | [https://cdn.staticaly.com](https://cdn.staticaly.com)（180ms 延迟，有缓存） |
 | ↳                | [https://jsd.onmicrosoft.cn](https://jsd.onmicrosoft.cn)（15ms 延迟，无缓存） |
 | ↳                | [https://jsd.cdn.zzko.cn](https://jsd.cdn.zzko.cn)（30ms 延迟，无缓存） |
+| Stackoverflow    | 在原来的链接前加上：[https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |
 |                  |                                                              |
 | ▼ **下载加速**   | **镜像网站**                                                 |
 | Chrome 商店      | https://www.crxsoso.com/webstore/category/extensions         |

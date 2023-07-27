@@ -8,7 +8,7 @@
 | ↳                | [Shared Chat](https://chat-shared.zhile.io/shared.html)，免费畅爽使用 ChatGPT（需要魔法）。 |
 | ↳                | 更多内容：[https://github.com/runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) |
 |                  |                                                              |
-| Goolge 搜索      | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
+| Google 搜索      | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
 | ↳                | [https://note.cm](https://note.cm)，速度稍慢，但也能用。     |
@@ -66,18 +66,9 @@
 | ↳                | [https://staticfile.org](https://staticfile.org)，七牛云     |
 | ↳                | [https://www.bootcdn.cn](https://www.bootcdn.cn)，极兔云     |
 
-
-
-
-
-
 ## **郑重声明**
 
-• 本页面仅为工作学习提供方便，请合法、安全地使用。
-
-• 请不要在镜像站上登录账户，也不要搜索敏感词汇。
-
-• 所有镜像网址均来自互联网，不对镜像内容负责。
-
-• 部分镜像站可能有广告或付费应用，请注意甄别。
-
+- 本页面仅为工作学习提供方便，请合法、安全地使用。
+- 请不要在镜像站上登录账户，也不要搜索敏感词汇。
+- 所有镜像网址均来自互联网，不对镜像内容负责。
+- 部分镜像站可能有广告或付费应用，请注意甄别。

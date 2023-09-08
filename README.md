@@ -1,6 +1,6 @@
 # MirrorSite
 
-最后更新：2023-07-27
+最后更新：2023-09-08
 
 
 
@@ -54,7 +54,7 @@
 |                  |                                                              |
 | ▼ **命令行**     | **镜像网站**                                                 |
 | pip              | 在原命令基础上加入参数 -i [镜像源地址]，即可把国外的源换成国内源，比如： |
-| ↳                | pip install whisper -i https://pypi.tuna.tsinghua.edu.cn/simple |
+| ↳                | pip install whisper -i https://mirrors.aliyun.com/pypi/simple |
 | git              | 在原命令基础上加上地址 https://ghproxy.com/ 即可高速克隆，比如： |
 | ↳                | git clone https://ghproxy.com/https://github.com/runningcheese/Awesome-ChatGPT.git |
 | nmp              | 项目地址：[https://nodejs.org/zh-cn](https://nodejs.org/zh-cn)，安装之后，所有 npm 命令都可以用 cnpm 代替。 |

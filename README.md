@@ -6,7 +6,7 @@
 
 | ▼ **网站访问**   | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
-| ChatGPT          | [Shared Chat](https://chat-shared2.zhile.io/shared.html)，免费畅爽使用 ChatGPT。 |
+| ChatGPT          | [Shared Chat](https://chat-shared3.zhile.io/shared.html)，免费畅爽使用 ChatGPT。 |
 | ↳                | [Shared Chat](https://chat-shared.zhile.io/shared.html)，免费畅爽使用 ChatGPT（需要魔法）。 |
 | ↳                | 更多内容：[https://github.com/runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) |
 |                  |                                                              |

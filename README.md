@@ -1,25 +1,27 @@
 # MirrorSite
 
-最后更新：2023-09-08
+最后更新：2023-11-27
 
 
 
-| ▼ **网站访问**   | **镜像网站**                                                 |
+| ▼ **ChatGPT**    | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
-| ChatGPT          | [Shared Chat](https://chat-shared3.zhile.io/shared.html)，免费畅爽使用 ChatGPT。 |
+| ChatGPT          | [Shared Chat](https://chat-shared3.zhile.io/shared.html)，免费畅爽使用 ChatGPT（免魔法）。 |
 | ↳                | [Shared Chat](https://chat-shared.zhile.io/shared.html)，免费畅爽使用 ChatGPT（需要魔法）。 |
 | ↳                | 更多内容：[https://github.com/runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) |
 |                  |                                                              |
-| Goolge 搜索      | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
+| ▼ **Google**     | **镜像网站**                                                 |
+| Goolge 搜索      | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还支持搜索图片。 |
+| ↳                | [https://ffsou.com](https://ffsou.com)，据说是 fsou 的分身。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
 | ↳                | [https://note.cm](https://note.cm)，速度稍慢，但也能用。     |
 | ↳                | [https://gs.colnago.icu](https://gs.colnago.icu)，速度稍慢，但也能用。 |
-| Google 学术      | https://sc.panda321.com                                      |
-| ↳                | https://search.essclick.com                                  |
-| ↳                | https://ac.scmor.com                                         |
-| ↳                | https://scholar.lanfanshu.cn                                 |
-| ↳                | http://scholar.scqylaw.com                                   |
+| Google 学术      | [https://sc.panda321.com](https://sc.panda321.com)           |
+| ↳                | [https://search.essclick.com](https://search.essclick.com)   |
+| ↳                | [https://ac.scmor.com](https://ac.scmor.com)                 |
+| ↳                | [https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn) |
+| ↳                | [http://scholar.scqylaw.com](http://scholar.scqylaw.com)     |
 | Google 翻译      | https://fsoufsou.com/translate                               |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
 | Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
@@ -35,8 +37,9 @@
 | ↳                | https://sci-hub.wf/                                          |
 |                  |                                                              |
 | ▼ **GitHub**     | **镜像网站**                                                 |
-| GitHub 访问           | 在任意 github 链接**后面**加上 fast，也就是 githubfast.com，[[示例](https://githubfast.com/runningcheese/Awesome-ChatGPT)] |
-| ↳                | 在任意 github 链接**前面**加上 k，也就是 kgithub.com，[[示例](https://kgithub.com/runningcheese/Awesome-ChatGPT)] |
+| GitHub 访问      | 在任意 github 链接**后面**加上 fast，也就是 githubfast.com，[[示例](https://githubfast.com/runningcheese/Awesome-AI)] |
+| ↳                | 在任意 github 链接**前面**加上 521，也就是 521github.com，[[示例](https://521github.com/runningcheese/Awesome-AI)] |
+| ↳                | 在任意 github 链接**前面**加上 kk，也就是 kkgithub.com，[[示例](https://kkgithub.com/runningcheese/RunningCheese-Firefox)] |
 | GitHub 下载      | 在 github 下载链接前面加上 [https://ghproxy.com/](https://ghproxy.com/)，[[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
 | GitHub 文件夹    | [项目地址](https://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html)，解决 GitHub 只能下载整个项目的问题。 |
 | GitHub CDN       | [https://gcore.jsdelivr.net](https://gcore.jsdelivr.net)（180ms 延迟，有缓存） |
@@ -78,7 +81,7 @@
 
 • 本页面仅为工作学习提供方便，请合法、安全地使用。
 
-• 请不要在镜像站上登录账户，也不要搜索敏感词汇。
+• 不要在镜像站上登录账户，也不要搜索敏感词汇。
 
 • 所有镜像网址均来自互联网，不对镜像内容负责。
 

@@ -4,6 +4,8 @@
 
 
 
+
+
 | ▼ **ChatGPT**    | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
 | ChatGPT          | [Shared Chat](https://chat-shared3.zhile.io/shared.html)，免费畅爽使用 ChatGPT（免魔法）。 |
@@ -15,21 +17,16 @@
 | ↳                | [https://ffsou.com](https://ffsou.com)，据说是 fsou 的分身。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
-| ↳                | [https://note.cm](https://note.cm)，速度稍慢，但也能用。     |
-| ↳                | [https://gs.colnago.icu](https://gs.colnago.icu)，速度稍慢，但也能用。 |
 | Google 学术      | [https://sc.panda321.com](https://sc.panda321.com)           |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)   |
 | ↳                | [https://ac.scmor.com](https://ac.scmor.com)                 |
 | ↳                | [https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn) |
 | ↳                | [http://scholar.scqylaw.com](http://scholar.scqylaw.com)     |
 | Google 翻译      | https://fsoufsou.com/translate                               |
-| Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
 | Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
+| Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
 |                  |                                                              |
-| Wikipedia        | [https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia](https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia) |
-| ↳                | [https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia](https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia) |
-|                  |                                                              |
-| SCI-Hub          | https://sci-hub.se/                                          |
+| ▼ **SCI-Hub**    | https://sci-hub.se/                                          |
 | ↳                | https://sci-hub.st/                                          |
 | ↳                | https://sci-hub.ren/                                         |
 | ↳                | https://sci-hub.shop/                                        |
@@ -42,24 +39,23 @@
 | ↳                | 在任意 github 链接**前面**加上 kk，也就是 kkgithub.com，[[示例](https://kkgithub.com/runningcheese/RunningCheese-Firefox)] |
 | GitHub 下载      | 在 github 下载链接前面加上 [https://ghproxy.com/](https://ghproxy.com/)，[[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
 | GitHub 文件夹    | [项目地址](https://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html)，解决 GitHub 只能下载整个项目的问题。 |
-| GitHub CDN       | [https://gcore.jsdelivr.net](https://gcore.jsdelivr.net)（180ms 延迟，有缓存） |
-| ↳                | [https://fastly.jsdelivr.net](https://fastly.jsdelivr.net)（180ms 延迟，有缓存） |
-| ↳                | [https://cdn.staticaly.com](https://cdn.staticaly.com)（180ms 延迟，有缓存） |
-| ↳                | [https://jsd.onmicrosoft.cn](https://jsd.onmicrosoft.cn)（15ms 延迟，无缓存） |
-| ↳                | [https://jsd.cdn.zzko.cn](https://jsd.cdn.zzko.cn)（30ms 延迟，无缓存） |
-| Stackoverflow    | 在原来的链接前加上：[https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |
+| GitHub CDN       | [https://gcore.jsdelivr.net](https://gcore.jsdelivr.net)，180ms 延迟，海外服务器，有缓存。[[示列](https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
+| ↳                | [https://cdn.jsdelivr.net](https://cdn.jsdelivr.net)，180ms 延迟，海外服务器，有缓存。[[示列](https://cdn.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
+| ↳                | [https://jsd.onmicrosoft.cn](https://jsd.onmicrosoft.cn)，15ms 延迟，国外服务器，无缓存。[[示列](https://jsd.onmicrosoft.cn/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
+| ↳                | [https://jsd.cdn.zzko.cn](https://jsd.cdn.zzko.cn)，30ms 延迟，国外服务器，无缓存。[[示列](https://jsd.cdn.zzko.cn/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
+| Stackoverflow    | [https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，在原网页前加上链接。[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |
 |                  |                                                              |
 | ▼ **下载加速**   | **镜像网站**                                                 |
-| Chrome 商店      | https://www.crxsoso.com/webstore/category/extensions         |
-| Edge 商店        | https://www.crxsoso.com/addon/category/extensions            |
-| Firefox 商店     | https://www.crxsoso.com/firefox/category/extensions          |
-| Microsoft 商店   | https://www.crxsoso.com/store/category/apps                  |
+| Chrome 商店      | [https://www.crxsoso.com/webstore/category/extensions](https://www.crxsoso.com/webstore/category/extensions) |
+| Edge 商店        | [https://www.crxsoso.com/addon/category/extensions](https://www.crxsoso.com/addon/category/extensions) |
+| Firefox 商店     | [https://www.crxsoso.com/firefox/category/extensions](https://www.crxsoso.com/firefox/category/extensions) |
+| Microsoft 商店   | [https://www.crxsoso.com/store/category/apps](https://www.crxsoso.com/store/category/apps) |
 |                  |                                                              |
 | ▼ **命令行**     | **镜像网站**                                                 |
 | pip              | 在原命令基础上加入参数 -i [镜像源地址]，即可把国外的源换成国内源，比如： |
 | ↳                | pip install whisper -i https://mirrors.aliyun.com/pypi/simple |
 | git              | 在原命令基础上加上地址 https://ghproxy.com/ 即可高速克隆，比如： |
-| ↳                | git clone https://ghproxy.com/https://github.com/runningcheese/Awesome-ChatGPT.git |
+| ↳                | git clone https://ghproxy.com/https://github.com/runningcheese/Awesome-AI.git |
 | nmp              | 项目地址：[https://nodejs.org/zh-cn](https://nodejs.org/zh-cn)，安装之后，所有 npm 命令都可以用 cnpm 代替。 |
 | ↳                | npm install -g cnpm --registry=https://registry.npmmirror.com |
 |                  |                                                              |

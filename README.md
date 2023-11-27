@@ -6,6 +6,7 @@
 
 
 
+
 | ▼ **ChatGPT**    | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
 | ChatGPT          | [Shared Chat](https://chat-shared3.zhile.io/shared.html)，免费畅爽使用 ChatGPT（免魔法）。 |
@@ -17,6 +18,7 @@
 | ↳                | [https://ffsou.com](https://ffsou.com)，据说是 fsou 的分身。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
+| ↳                | [https://search.fuyeor.com/zh-cn/Google](https://search.fuyeor.com/zh-cn/Google)，搜索引擎，自动分配。 |
 | Google 学术      | [https://sc.panda321.com](https://sc.panda321.com)           |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)   |
 | ↳                | [https://ac.scmor.com](https://ac.scmor.com)                 |
@@ -37,7 +39,7 @@
 | GitHub 访问      | 在任意 github 链接**后面**加上 fast，也就是 githubfast.com，[[示例](https://githubfast.com/runningcheese/Awesome-AI)] |
 | ↳                | 在任意 github 链接**前面**加上 521，也就是 521github.com，[[示例](https://521github.com/runningcheese/Awesome-AI)] |
 | ↳                | 在任意 github 链接**前面**加上 kk，也就是 kkgithub.com，[[示例](https://kkgithub.com/runningcheese/RunningCheese-Firefox)] |
-| GitHub 下载      | 在 github 下载链接前面加上 [https://ghproxy.com/](https://ghproxy.com/)，[[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
+| GitHub 下载      | 在 github 下载链接前面加上 [https://mirror.ghproxy.com](https://mirror.ghproxy.com)，[[示例](https://mirror.ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
 | GitHub 文件夹    | [项目地址](https://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html)，解决 GitHub 只能下载整个项目的问题。 |
 | GitHub CDN       | [https://gcore.jsdelivr.net](https://gcore.jsdelivr.net)，180ms 延迟，海外服务器，有缓存。[[示列](https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
 | ↳                | [https://cdn.jsdelivr.net](https://cdn.jsdelivr.net)，180ms 延迟，海外服务器，有缓存。[[示列](https://cdn.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
@@ -54,8 +56,8 @@
 | ▼ **命令行**     | **镜像网站**                                                 |
 | pip              | 在原命令基础上加入参数 -i [镜像源地址]，即可把国外的源换成国内源，比如： |
 | ↳                | pip install whisper -i https://mirrors.aliyun.com/pypi/simple |
-| git              | 在原命令基础上加上地址 https://ghproxy.com/ 即可高速克隆，比如： |
-| ↳                | git clone https://ghproxy.com/https://github.com/runningcheese/Awesome-AI.git |
+| git              | 在原命令基础上加上地址 https://mirror.ghproxy.com/ 即可高速克隆，比如： |
+| ↳                | git clone https://mirror.ghproxy.com/https://github.com/runningcheese/Awesome-AI.git |
 | nmp              | 项目地址：[https://nodejs.org/zh-cn](https://nodejs.org/zh-cn)，安装之后，所有 npm 命令都可以用 cnpm 代替。 |
 | ↳                | npm install -g cnpm --registry=https://registry.npmmirror.com |
 |                  |                                                              |
@@ -67,7 +69,6 @@
 | ↳                | [https://cdn.baomitu.com](https://cdn.baomitu.com)，360      |
 | ↳                | [https://staticfile.org](https://staticfile.org)，七牛云     |
 | ↳                | [https://www.bootcdn.cn](https://www.bootcdn.cn)，极兔云     |
-
 
 
 

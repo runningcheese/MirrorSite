@@ -1,6 +1,6 @@
 # MirrorSite
 
-最后更新：2023-11-27
+最后更新：2023-12-04
 
 
 
@@ -46,6 +46,9 @@
 | ↳                | [https://jsd.onmicrosoft.cn](https://jsd.onmicrosoft.cn)，15ms 延迟，国外服务器，无缓存。[[示列](https://jsd.onmicrosoft.cn/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
 | ↳                | [https://jsd.cdn.zzko.cn](https://jsd.cdn.zzko.cn)，30ms 延迟，国外服务器，无缓存。[[示列](https://jsd.cdn.zzko.cn/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt)] |
 | Stackoverflow    | [https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，在原网页前加上链接。[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |
+|                  |                                                              |
+| ▼ **HuggingFace**     | **镜像网站**                                                 |
+| HuggingFace      | [https://hf-mirror.com](https://hf-mirror.com) |
 |                  |                                                              |
 | ▼ **下载加速**   | **镜像网站**                                                 |
 | Chrome 商店      | [https://www.crxsoso.com/webstore/category/extensions](https://www.crxsoso.com/webstore/category/extensions) |
